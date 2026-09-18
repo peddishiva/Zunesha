@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Block</string>
+    <string name="accessibility_service_description">Detects foreground app launches to block distraction apps during an active focus session. Does not read personal text or passwords.</string>
+    <string name="admin_description">Optional uninstall protection during active focus sessions.</string>
+</resources>
